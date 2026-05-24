@@ -1,4 +1,4 @@
-# Hey, I'm Rakshitha B R 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=500&lines=Full+Stack+Developer;Django+%2B+React+Builder;Open+to+Bengaluru+Roles)](https://git.io/typing-svg)
 
 Full Stack Developer based in Bengaluru. I build web applications 
 end-to-end — from Django APIs to React frontends — and I actually 
