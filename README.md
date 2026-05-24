@@ -31,7 +31,7 @@ classification.
 A multi-role exam platform for Admins, Teachers, and Students. Handles 
 authentication, live exams, automated result generation, and dashboards.  
 `Django · React.js · MySQL · REST API`  
-[GitHub →](#) | [Live Demo →](#)
+[GitHub →](#) | [Live Demo →](https://github.com/rakshitha313/MindExam)
 
 ### 🤖 AI Job Tracker
 A job application tracker with JWT-based authentication and a full 
