@@ -12,11 +12,11 @@ Currently looking for **onsite full-stack or backend roles in Bengaluru.**
 
 ## What I work with
 
-**Languages** — Python, JavaScript, SQL, C  
-**Frontend** — React.js, HTML5, CSS3, Bootstrap  
-**Backend** — Django, Django REST Framework, Node.js  
+**Languages** — Python, JavaScript, SQL, 
+**Frontend** — React.js, HTML5, CSS3, 
+**Backend** — Django, Node.js  
 **Database** — MySQL, SQLite  
-**Other** — REST APIs, JWT Auth, Git, OOP, DSA, basic ML (scikit-learn)
+**Other** — REST APIs, , Git, OOP, DSA, basic ML (scikit-learn)
 
 ## Projects I'm proud of
 
